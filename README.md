@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chepchirchirwrono
 - 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning python,sql,r
+- 🌱 I’m currently learning python,sql,r, tableau
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...winniekiprono@gmail.com
 
